@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "Context",
+      "type": "java.lang.String",
+      "description": "Description for basicClass.Context."
+  }
+] }

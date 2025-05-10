@@ -1,10 +1,10 @@
-package javalearning.javarest;
+package javarest.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaRestApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
