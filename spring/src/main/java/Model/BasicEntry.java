@@ -1,12 +1,14 @@
 package Model;
 
 import jakarta.persistence.*;
+import org.springframework.stereotype.Component;
 
 import java.util.UUID;
 
+@Component
 @Entity
 @Table(name="Entries")
-public class BasicEntry {
+public class BasicEntry  {
 
     @Id
     @Column(name = "BasicEntryId")

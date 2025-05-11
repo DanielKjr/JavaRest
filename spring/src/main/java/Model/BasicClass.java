@@ -1,11 +1,12 @@
 package Model;
 
 import jakarta.persistence.*;
+import org.springframework.stereotype.Component;
 
 import java.sql.Date;
 import java.util.Collection;
 import java.util.UUID;
-
+@Component
 @Entity
 @Table(name = "Classes")
 public class BasicClass {

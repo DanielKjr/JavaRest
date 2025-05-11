@@ -1,0 +1,5 @@
+package EgenRepo;
+
+class BaseRepositoryTest {
+
+}
